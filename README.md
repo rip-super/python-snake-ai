@@ -16,3 +16,8 @@ if __name__ == "__main__":
     #train()
     train(pretrained_model="model_save.pt")
 ```
+
+Also, if you wish play the snake game (mabye to challenge the ai) just run 
+```bash
+python game_human.py
+```
